@@ -1,5 +1,5 @@
 # Tetris
-A simple tetris game with french documentation
+A simple Java FX tetris game with french documentation
 
 © 2016 Silvan Habenicht
 
