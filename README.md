@@ -5,7 +5,7 @@ A simple Java FX tetris game with french documentation
 
 Le jeu est contrôlé par les flèches.
 
-haut:   tourner()
-bas:    verLeBas()
-gauche: versLaGauche()
-droit:  versLaDroite()
+haut:   tourner()  
+bas:    verLeBas()  
+gauche: versLaGauche()  
+droit:  versLaDroite()  
